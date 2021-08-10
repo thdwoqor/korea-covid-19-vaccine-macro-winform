@@ -11,7 +11,7 @@
    를 참고하여 알림신청을 해주세요.
    
 2. 카카오톡 2단계 인증을 설정하신경우 [#2](https://lifenourish.tistory.com/994) 를 참고하여 해제해주세요.
-3. [Release 페이지](https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/releases/tag/v1.0.0)에서 파일을 다운로드 받고 실행합니다. ( window만 사용가능 )  
+3. [Release 페이지](https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/releases/tag/v1.0.0)에서 .zip 파일을 다운로드 받고 .exe를 실행합니다. ( window만 사용가능 , 크롬 최신버전인 경우만 실행가능 )  
 
 4. 카카오 로그인을 해주세요. <p align="center">
 	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/login.png?raw=true" alt="icon" width="60%" height="60%"/>
