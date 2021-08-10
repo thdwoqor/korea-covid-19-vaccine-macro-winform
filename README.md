@@ -14,21 +14,21 @@
 3. [Release 페이지](https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/releases/tag/v1.0.0)에서 파일을 다운로드 받고 실행합니다. ( window만 사용가능 )  
 
 4. 카카오 로그인을 해주세요. <p align="center">
-	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/login.png?raw=true" alt="icon" width="80%" height="80%"/>
+	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/login.png?raw=true" alt="icon" width="60%" height="60%"/>
 </p>  
 
 5. 인증창이 뜰경우 인증해주세요. <p align="center">
-	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/certification.png?raw=true" alt="icon" width="80%" height="80%"/>
+	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/certification.png?raw=true" alt="icon" width="60%" height="60%"/>
 </p>
 
 6. 인증창이 뜰경우 인증해주세요. <p align="center">
-	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/main.png?raw=true" alt="icon" width="80%" height="80%"/>  
+	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/main.png?raw=true" alt="icon" width="60%" height="60%"/>  
    * 원하는 백신을 한가지만 선택해주세요
    * 검색범위를 설정해주세요
    * 사는곳 도로명주소륵 적고 검색해주세요
 
 7. 성공할경우 카카오톡 메세지가 옵니다. <p align="center">
-	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/start.png?raw=true" alt="icon" width="80%" height="80%"/> 
+	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/start.png?raw=true" alt="icon" width="60%" height="60%"/> 
 
 
 ## Disclaimer
