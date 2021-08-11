@@ -26,7 +26,7 @@
 	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/certification.png?raw=true" alt="icon" width="60%" height="60%"/>
 </p>
 
-6. 인증창이 뜰경우 인증해주세요. <p align="center">
+6. 순서대로 따라해주세요  <p align="center">
 	<img src="https://github.com/thdwoqor/korea-covid-19-vaccine-macro-wpf/blob/master/screenshot/main.png?raw=true" alt="icon" width="60%" height="60%"/>  
    * 원하는 백신을 한가지만 선택해주세요
    * 검색범위를 설정해주세요
