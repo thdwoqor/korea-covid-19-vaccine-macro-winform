@@ -4,7 +4,7 @@
 프로그램은  
 [`korea-covid-19-remaining-vaccine-macro`](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro)  
 를 참고하여 제작되었습니다.  
-2021-08-11 사용 가능하고 속도도 빠릅니다.
+2021-08-12 사용 가능하고 속도도 타매크로보다 빠릅니다.
 
 ## 카카오 잔여백신 예약
 ### 이용방법
