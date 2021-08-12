@@ -1,6 +1,7 @@
 # korea-covid-19-remaining-vaccine-macro-WPF 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthdwoqor%2Fkorea-covid-19-vaccine-macro-wpf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=README_HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthdwoqor%2Fkorea-covid-19-vaccine-macro-winform&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthdwoqor%2Fkorea-covid-19-vaccine-macro-winform&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=README_HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 프로그램은  
 [`korea-covid-19-remaining-vaccine-macro`](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro)  
 를 참고하여 제작되었습니다.  
